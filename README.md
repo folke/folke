@@ -1,8 +1,8 @@
 ## Hi there 🥷🏻
 
-[![Folke's github stats](https://github-readme-stats.vercel.app/api?username=folke&count_private=true&show_icons=true)](https://github.com/folke)
+![Stats](./profile/stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folke&hide=php)](https://github.com/folke)
+![Top Languages](./profile/top-langs.svg)
 
 <!--
 **folke/folke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
