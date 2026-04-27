@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Folke Lemaitre's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 83201, Total Commits  (last year) : 1577, Total PRs: 239, Total Issues: 247, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 83229, Total Commits  (last year) : 1579, Total PRs: 239, Total Issues: 247, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 3.0242311932133905;
+        stroke-dashoffset: 3.021278904695724;
       }
     }
   
